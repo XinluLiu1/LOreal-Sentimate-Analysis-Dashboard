@@ -36,9 +36,8 @@ You can open the full Colab notebook in this folder.
 
 The sentiment analysis output is used to build a dashboard that:
 
-- Visualizes sentiment distribution by brand
-- Filters by brand
-- Identifies high-subjectivity reviews for deeper insights
+- Visualizes sentiment distribution specifically for L'Oreal Paris
+- Compares competitor reviews by average review score
 
 ### 🧰 Tools Used
 - [ ] Power BI *(example screenshots below)*
