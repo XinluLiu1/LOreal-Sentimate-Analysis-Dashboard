@@ -21,18 +21,12 @@ The notebook includes:
 
 ### 📁 Sample Data Format
 
-| brand_name    | review                                      |
-|---------------|---------------------------------------------|
-| L'Oreal Paris | I love this shampoo, it smells amazing!     |
-| Garnier       | Didn't work for me at all.                  |
-| L'Oreal Paris | Best conditioner ever!                      |
+<img width="1083" height="214" alt="image" src="https://github.com/user-attachments/assets/b9865349-852f-4e8f-a420-62d8076f0ac3" />
 
 ### 📊 Output Columns
 
-| review                                      | polarity | subjectivity | sentiment |
-|---------------------------------------------|----------|--------------|-----------|
-| I love this shampoo, it smells amazing!     | 0.50     | 0.60         | Positive  |
-| Didn't work for me at all.                  | -1.00    | 1.00         | Negative  |
+<img width="722" height="208" alt="image" src="https://github.com/user-attachments/assets/229a4874-f573-4580-a636-2a5cf7418bc8" />
+
 
 You can open the full Colab notebook [here](link-to-your-colab).
 
