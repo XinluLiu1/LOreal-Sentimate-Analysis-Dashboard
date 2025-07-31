@@ -28,7 +28,7 @@ The notebook includes:
 <img width="722" height="208" alt="image" src="https://github.com/user-attachments/assets/229a4874-f573-4580-a636-2a5cf7418bc8" />
 
 
-You can open the full Colab notebook [here](link-to-your-colab).
+You can open the full Colab notebook in this folder.
 
 ---
 
