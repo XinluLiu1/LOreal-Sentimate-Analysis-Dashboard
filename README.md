@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis & Dashboard Project
+# Sentiment Analysis & Dashboard Project
 
 This project performs sentiment analysis on customer reviews using **TextBlob** in **Google Colab**, then visualizes the insights through a dashboard.
 
