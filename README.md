@@ -37,8 +37,7 @@ You can open the full Colab notebook in this folder.
 The sentiment analysis output is used to build a dashboard that:
 
 - Visualizes sentiment distribution by brand
-- Compares positive vs. negative feedback over time
-- Filters by brand or product
+- Filters by brand
 - Identifies high-subjectivity reviews for deeper insights
 
 ### 🧰 Tools Used
