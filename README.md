@@ -9,7 +9,7 @@ This project performs sentiment analysis on customer reviews using **TextBlob** 
 We use Python and TextBlob to analyze customer sentiment from review text.  
 The notebook includes:
 
-- 📥 Data loading (`reviews.csv`)
+- 📥 Data loading (kaggle's )
 - 🧼 Preprocessing
 - 🧪 Sentiment scoring (polarity, subjectivity, and sentiment label)
 - 📈 Basic visualization of sentiment distribution
