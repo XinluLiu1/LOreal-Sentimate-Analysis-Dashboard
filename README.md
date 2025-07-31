@@ -42,21 +42,7 @@ The sentiment analysis output is used to build a dashboard that:
 - Identifies high-subjectivity reviews for deeper insights
 
 ### 🧰 Tools Used
-- [ ] Power BI or Looker Studio *(example screenshots below)*
-- [ ] Optional: Streamlit for web-based app
+- [ ] Power BI *(example screenshots below)*
+<img width="830" height="910" alt="image" src="https://github.com/user-attachments/assets/8ab54ef4-3291-43e8-9e30-78157e10e36d" />
 
-### 📷 Sample Charts
-- Bar chart: Sentiment distribution per brand
-- Timeline: Sentiment trend over time
-- Table: Filtered reviews with sentiment scores
 
----
-
-## 🚀 How to Run
-
-### In Colab
-1. Clone the repo or upload the notebook to Colab.
-2. Install dependencies:
-   ```python
-   !pip install textblob pandas matplotlib
-   !python -m textblob.download_corpora
